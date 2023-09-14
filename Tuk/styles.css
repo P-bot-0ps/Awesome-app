@@ -3,7 +3,7 @@ h1 {
 }
 
 h1 {
-  color: #ee3f3f;
+  color: #0f0202;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -66,6 +66,9 @@ li {
 }
 .Tit {
   position: absolute;
-  margin-left: 500px;
+  margin-left: 380px;
   display: block;
+  padding: 2px;
+  color: black;
+  font-size: 15px;
 }
